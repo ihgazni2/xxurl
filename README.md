@@ -112,7 +112,9 @@
 ├──52. [d2t](xxurl/Images/d2t.0.png)  <br>
 ├──53. [d2u](xxurl/Images/d2u.0.png)  <br>
 ├──54. [dict2qdl](xxurl/Images/dict2qdl.0.png)  <br>
+├──.**_get absolute-url ,such as from form-action_** <br>
 ├──58. [get_abs_url](xxurl/Images/get_abs_url.0.png)  <br>
+├──.**_get absolute-url ,such as from form-action_** <br>
 ├──59. [get_authority](xxurl/Images/get_authority.0.png)  <br>
 ├──60. [get_fragment](xxurl/Images/get_fragment.0.png)  <br>
 ├──61. [get_hash](xxurl/Images/get_hash.0.png)  <br>
@@ -162,12 +164,12 @@
 ├──108. [packup_unpw](xxurl/Images/packup_unpw.0.png)  <br>
 ├──109. [para2tl](xxurl/Images/para2tl.0.png)  <br>
 ├──110. [path2l](xxurl/Images/path2l.0.png)  <br>
-## normalization
+├──.**_normalization_** <br>
 ├──51. [case_normalize](xxurl/Images/case_normalize.0.png)  <br>
 ├──104. [normalize_path](xxurl/Images/normalize_path.0.png)  <br>
 ├──111. [path_remove_consecutive_slashes](xxurl/Images/path_remove_consecutive_slashes.0.png)  <br>
 ├──112. [path_remove_dot_segments](xxurl/Images/path_remove_dot_segments.0.png)  <br>
-## normalization
+├──.**_normalization_** <br>
 ├──113. [posixpath](xxurl/Images/posixpath.0.png)  <br>
 ├──114. [ptele2str](xxurl/Images/ptele2str.0.png)  <br>
 ├──115. [q2tl](xxurl/Images/q2tl.0.png)  <br>
@@ -177,10 +179,10 @@
 ├──119. [qtele2str](xxurl/Images/qtele2str.0.png)  <br>
 ├──120. [qtl2dict](xxurl/Images/qtl2dict.0.png)  <br>
 ├──121. [qtl2qdl](xxurl/Images/qtl2qdl.0.png)  <br>
-## ordered urldecode urlencode
+├──.**_ordered urldecode urlencode_** <br>
 ├──122. [query_decode](xxurl/Images/query_decode.0.png)  <br>
 ├──123. [query_encode](xxurl/Images/query_encode.0.png)  <br>
-## ordered urldecode urlencode
+├──.**_ordered urldecode urlencode_** <br>
 ├──125. [remove_fragment](xxurl/Images/remove_fragment.0.png)  <br>
 ├──126. [remove_host](xxurl/Images/remove_host.0.png)  <br>
 ├──127. [remove_hostname](xxurl/Images/remove_hostname.0.png)  <br>
