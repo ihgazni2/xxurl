@@ -109,13 +109,9 @@
 ├──48. [before_userinfo_sp](xxurl/Images/before_userinfo_sp.0.png)  <br>
 ├──49. [before_username](xxurl/Images/before_username.0.png)  <br>
 ├──50. [before_username_sp](xxurl/Images/before_username_sp.0.png)  <br>
-├──51. [case_normalize](xxurl/Images/case_normalize.0.png)  <br>
 ├──52. [d2t](xxurl/Images/d2t.0.png)  <br>
 ├──53. [d2u](xxurl/Images/d2u.0.png)  <br>
 ├──54. [dict2qdl](xxurl/Images/dict2qdl.0.png)  <br>
-├──55. [eded](xxurl/Images/eded.0.png)  <br>
-├──56. [elel](xxurl/Images/elel.0.png)  <br>
-├──57. [eses](xxurl/Images/eses.0.png)  <br>
 ├──58. [get_abs_url](xxurl/Images/get_abs_url.0.png)  <br>
 ├──59. [get_authority](xxurl/Images/get_authority.0.png)  <br>
 ├──60. [get_fragment](xxurl/Images/get_fragment.0.png)  <br>
@@ -151,7 +147,6 @@
 ├──90. [has_unpw](xxurl/Images/has_unpw.0.png)  <br>
 ├──91. [has_userinfo](xxurl/Images/has_userinfo.0.png)  <br>
 ├──92. [has_username](xxurl/Images/has_username.0.png)  <br>
-├──93. [ipaddress](xxurl/Images/ipaddress.0.png)  <br>
 ├──94. [l2path](xxurl/Images/l2path.0.png)  <br>
 ├──95. [nin_d2t](xxurl/Images/nin_d2t.0.png)  <br>
 ├──96. [nin_d2u](xxurl/Images/nin_d2u.0.png)  <br>
@@ -168,6 +163,7 @@
 ├──109. [para2tl](xxurl/Images/para2tl.0.png)  <br>
 ├──110. [path2l](xxurl/Images/path2l.0.png)  <br>
 ## normalization
+├──51. [case_normalize](xxurl/Images/case_normalize.0.png)  <br>
 ├──104. [normalize_path](xxurl/Images/normalize_path.0.png)  <br>
 ├──111. [path_remove_consecutive_slashes](xxurl/Images/path_remove_consecutive_slashes.0.png)  <br>
 ├──112. [path_remove_dot_segments](xxurl/Images/path_remove_dot_segments.0.png)  <br>
@@ -228,7 +224,6 @@
 ├──165. [t2u](xxurl/Images/t2u.0.png)  <br>
 ├──166. [tl2para](xxurl/Images/tl2para.0.png)  <br>
 ├──167. [tl2q](xxurl/Images/tl2q.0.png)  <br>
-├──168. [tltl](xxurl/Images/tltl.0.png)  <br>
 ├──169. [u2d](xxurl/Images/u2d.0.png)  <br>
 ├──170. [u2t](xxurl/Images/u2t.0.png)  <br>
 ├──171. [unpack_host](xxurl/Images/unpack_host.0.png)  <br>
