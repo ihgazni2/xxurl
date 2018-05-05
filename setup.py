@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 setup(
       #name ="main"
       name="xxurl",
-      version = "0.1",
+      version = "0.2",
       description="handle url, javascript-style APIs",
       author="dapeli",
       #https://github.com/ihgazni2/main
