@@ -2,7 +2,7 @@
 >__handle url,javascript-style API__
 
 # install
->__pip3 install xxurl
+>__pip3 install xxurl__
 
 
 # _class_ URL
@@ -35,3 +35,28 @@
 ├──25. [URL.toDict](xxurl/Images/URL.toDict.0.png)  <br>
 ├──26. [URL.toTuple](xxurl/Images/URL.toTuple.0.png)  <br>
 -----------------------------------------------------------------------
+
+
+
+# _class_ URLSearchParams
+-----------------------------------------------------------------------
+├──0. [append](xxurl/Images/URLSearchParams.append.0.png)  <br>
+├──1. [delete](xxurl/Images/URLSearchParams.delete.0.png)  <br>
+├──2. [entries](xxurl/Images/URLSearchParams.entries.0.png)  <br>
+├──3. [get](xxurl/Images/URLSearchParams.get.0.png)  <br>
+├──4. [getAll](xxurl/Images/URLSearchParams.getAll.0.png)  <br>
+├──5. [has](xxurl/Images/URLSearchParams.has.0.png)  <br>
+├──6. [insert](xxurl/Images/URLSearchParams.insert.0.png)  <br>
+├──7. [keys](xxurl/Images/URLSearchParams.keys.0.png)  <br>
+├──8. [prepend](xxurl/Images/URLSearchParams.prepend.0.png)  <br>
+├──9. [set](xxurl/Images/URLSearchParams.set.0.png)  <br>
+├──10. [toString](xxurl/Images/URLSearchParams.toString.0.png)  <br>
+├──11. [values](xxurl/Images/URLSearchParams.values.0.png)  <br>
+-----------------------------------------------------------------------
+
+
+
+# 
+
+
+
