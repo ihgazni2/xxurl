@@ -3474,4 +3474,16 @@ class URL():
 # URI         = scheme ":" hier-part [ "?" query ] [ "#" fragment ]
 # hier-part   = "//" authority path-abempty/path-absolute/path-rootless/path-empty
 
+####handle chinese##############
 
+def quote_chinese(s,codec='gb2312'):
+    '''
+        utf8_to_other_quote("登 录")
+    '''
+    bytstrm = s.encode(codec)
+    s = eses.bytstrm2hex(bytstrm)
+    s = s.replace("\\x","%")
+    s = s.upper()
+    return(s)
+
+#####################
