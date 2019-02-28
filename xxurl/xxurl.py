@@ -7,6 +7,7 @@ import estring.estring as eses
 import urllib.parse 
 import ipaddress
 import posixpath
+from efdir import fs
 
 
 # https://url.spec.whatwg.org/#concept-url-origin
@@ -3487,3 +3488,36 @@ def quote_chinese(s,codec='gb2312'):
     return(s)
 
 #####################
+
+
+####experimental split-url  for creat dir#####
+def urlpath2d(path):
+    dirpath,full_fn = os.path.split(path)
+    fn,ext = os.path.splitext(full_fn)
+    fpl = fs.path2pl(path)
+    dpl = fs.path2pl(dirpath)
+    filepath_without_suffix,suffix = os.path.splitext(path)
+    suffix_sp = suffix[:1]
+    suffix_body = suffix[1:]
+    return({
+        "dpl":dpl,
+        "fpl":fpl,
+        "dpath":dirpath,
+        "full_fn":full_fn,
+        "fn":fn,
+        "fpath":filepath_without_suffix,
+        "full_fpath":path,
+        "ext":suffix,
+        "extsep":suffix_sp,
+        "ext_body":suffix_body
+    })
+
+
+def get_path_last(url):
+    d = nin_u2d(url)
+    path = d["path"]
+    pd = urlpath2d(path)
+    return(pd['fn'])
+
+
+###############################################
