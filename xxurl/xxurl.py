@@ -3519,5 +3519,11 @@ def get_path_last(url):
     pd = urlpath2d(path)
     return(pd['fn'])
 
+def get_file_suffix(url):
+    d = xuxu.u2d(url)
+    path = d["path"]
+    fn = os.path.splitext(path)
+    suffix = fn[1]
+    return(suffix)
 
 ###############################################
